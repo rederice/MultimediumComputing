@@ -1,0 +1,27 @@
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.Cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.cache
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.CoreCompileInputs.cache
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.CopyComplete
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\bin\Debug\PLAYONE.exe.config
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\bin\Debug\PLAYONE.exe
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\bin\Debug\PLAYONE.pdb
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\PLAYONE.Properties.Resources.resources
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\PLAYONE.exe
+D:\WindowsStudio\repos\MyVideoPlayer\MyVideoPlayer\obj\Debug\PLAYONE.pdb
